@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SignIn
+comment1.params=
+comment1.target=void\ initializeUI()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=username\ phoneNumber\ password
+comment3.target=boolean\ validateCredentials(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ showOnlineBookingInterface()
+numComments=5

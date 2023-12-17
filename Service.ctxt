@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Service
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ initializeUI()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ updateSubcategories()
+comment6.params=
+comment6.target=void\ updatePrice()
+comment7.params=
+comment7.target=void\ onButtonClick()
+numComments=8

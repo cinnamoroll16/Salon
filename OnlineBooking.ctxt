@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=OnlineBooking
+comment1.params=
+comment1.target=void\ initializeUI()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ showHomeServiceInterface()
+comment6.params=
+comment6.target=void\ handleConfirmButtonClick()
+comment7.params=
+comment7.target=void\ showServiceMenu()
+comment8.params=textField\ fieldName
+comment8.target=boolean\ isFieldEmpty(javax.swing.JTextField,\ java.lang.String)
+comment9.params=e
+comment9.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=10

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ServiceMenu
+comment1.params=
+comment1.target=void\ initializeUI()
+comment2.params=
+comment2.target=javax.swing.JPanel\ createServiceBoxes()
+comment3.params=serviceName\ serviceDescription\ servicePrice
+comment3.target=javax.swing.JPanel\ createServiceBox(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ onButtonClick()
+numComments=6
